@@ -1,0 +1,13 @@
+*.log
+*.aux
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.out
+*.gz
+*.toc
+*.xml
+*.bcf
+Arviointilomake.xlsx
+Harmaala_Ville_2016.pdf
